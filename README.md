@@ -24,3 +24,17 @@ Create a new project in uKeil and add header and cpp files in Source Group which
 
 # PinConfig
 To use different pins in Port A please change the hex values of DEN and DIR to the respective values, these are located in TM1637.cpp --> TM1637Init method  
+GpioA->DATA (0x04) to specific pin hex value  ---> Data (DIO)
+GpioA->DATA (0x08) to specific pin hex value  ---> Clock (CLK)
+_________________________________________
+Hex values for different pins
+  Pin     | Hex
+--------- | -------------
+0         | 0x01
+1         | 0x02
+2         | 0x04
+3         | 0x08
+4         | 0x10
+5         | 0x20
+6         | 0x40
+7         | 0x80
