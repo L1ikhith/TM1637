@@ -38,3 +38,7 @@ Hex values for different pins
 5         | 0x20
 6         | 0x40
 7         | 0x80
+
+# Reference
+
+Some of the code was inspired by avishorp **TM1637 for arduino code**
