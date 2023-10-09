@@ -41,4 +41,4 @@ Hex values for different pins
 
 # Reference
 
-Some of the code was inspired by avishorp **TM1637 for arduino code**
+Some of the code was inspired by avishorp **TM1637 for arduino** code
